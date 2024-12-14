@@ -1,0 +1,14 @@
+.headings {
+    height: 100vh;
+    padding: 50px;
+    padding-right: 5rem;
+    display: flex;
+    justify-content: center,left;
+    align-items: center;
+    background-color: #f4f4f4;
+  }
+
+
+html {
+    scroll-behavior: smooth;
+  }
