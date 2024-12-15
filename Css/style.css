@@ -58,8 +58,9 @@ body {
 .headings {
   box-sizing: border-box;
   padding: 50px;
-  display: flex;
+  
   align-items: center;
+  padding-right: 50px;
 }
 
 html {
