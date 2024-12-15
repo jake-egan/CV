@@ -6,7 +6,9 @@ function getBirthday(Birthdate) {
 }
 
 
-  const Birthdate = '2003-02-03';
-  const age = getBirthday(Birthdate);
+const Birthdate = '2003-02-03';
+const age = getBirthday(Birthdate);
 
-  document.getElementById('age').textContent = `DOB: ${Birthdate} | Age: ${age}`;
+document.getElementById('age').textContent = `DOB: ${Birthdate} | Age: ${age}`;
+
+
